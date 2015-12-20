@@ -11,6 +11,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
 gem 'sdoc', group: :doc
+gem 'bootstrap-sass'
 # gem 'bcrypt'
 # gem 'unicorn'
 # gem 'capistrano-rails', group: :development
